@@ -1,0 +1,4 @@
+1. When collaborating with a classmate, the first thing you must do is to add them as a collaborator. You can do this by clicking settings, then clicking collaborators and scrolling down until you see the "add collaborators" button. You click that button and write in their username. This is important to do so that your partner will be able to have access to your file and be able to work on it.
+2. Developers use branches so that their changes won't immediately go into the main branch. This way they are able to experiment without ut affecting the main.
+3. Git is a specific open-source version control system. Github is a company that offers a cloud-based Git repository hosting service. They work together by github being user-frinedly and easier to navigate while git is more advanced.
+4. The correct command sequence should be git add ., git commit -m "saving work", and git push. If these steps aren't in correct order the save will not be made. 
